@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../cse20"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSE WEB.html"
+	}
+}
